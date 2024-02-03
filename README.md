@@ -16,7 +16,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvYm8wbnAybmlxNnAybTd3MD
   
 
 ```javascript
-                                                                    "Devamrit.js"                                                    
+                                                                          "Devamrit.js"                                                    
 
 import DSA from 'data Structure and Algorithm/C++'
 
