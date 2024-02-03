@@ -1,10 +1,4 @@
----
-title: Anand
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'hacanand'
----
-
+ 
 <h1> Hi, I'm Amrit...!!!  <img  
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvYm8wbnAybmlxNnAybTd3MDZxM2NxbjRrdjd3N251d3d1M3FkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hVm2JYyoGy7MGqX4H8/giphy.gif" width="100"></h1>    
 
@@ -22,8 +16,7 @@ src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvYm8wbnAybmlxNnAybTd3MD
   
 
 ```javascript
-Devamrit.js
-
+                                                                                                                                                        "Devamrit.js"                                                    
 import DSA from 'data Structure and Algorithm/C++'
 
 const practiceDsa =useLeetcode("400+ Problems")
