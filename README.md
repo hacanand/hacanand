@@ -3,7 +3,7 @@
 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGdvYm8wbnAybmlxNnAybTd3MDZxM2NxbjRrdjd3N251d3d1M3FkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hVm2JYyoGy7MGqX4H8/giphy.gif" width="100"></h1>    
 
 <img align='right' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXFkZjl5ZnFocHJ5YXJkYmtlbzlteHA0ajJ3M3AzY3hqcDZteHZtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WFZvB7VIXBgiz3oDXE/giphy.gif" width="230">
-<h2><em>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>National Institute of Technology(NIT) Patna,(In)
+<h2><em>By Passion:Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>National Institute of Technology(NIT) Patna,(In)
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmJub2U1YnRnZmNibTR0ZHJoY3RvczgwcGQ3N202YjBvdjR2aGpjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gjxYwnMG7Mocmc75DM/giphy.gif"width="40" height="30" >
 </em></h2>
 
