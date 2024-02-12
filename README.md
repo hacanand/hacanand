@@ -25,10 +25,10 @@ const contests= useCodechef("weekly")
 
 const amrit = {
   pronouns: "he" | "his",
-  code: [Javascript, Typescript, C++,C, Python, Java,Matlab,Assembly,Verilog,....],
-  tools: [React, Redux, Node,Express,Tailwind,CSS,HTML,Next,Jest,.....],
-  
-  architecture: ["content-driven", "event-driven","MVC"],
+  languages:[C/C++,javascript,python],
+  backend:[nodejs,express],
+  frontend:[Redux,Tailwind,css,HTML]
+
   techCommunities: {
                         member: "Facebook-Developer",
                         member: "Google-Developer",
