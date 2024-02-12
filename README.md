@@ -27,7 +27,7 @@ const amrit = {
   pronouns: "he" | "his",
   languages:[C/C++,javascript,python],
   backend:[nodejs,express],
-  frontend:[Redux,Tailwind,css,HTML]
+  frontend:[Reactjs,Nextjs,Redux,Tailwind,css,HTML]
 
   techCommunities: {
                         member: "Facebook-Developer",
