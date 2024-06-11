@@ -7,7 +7,7 @@
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=hacanand&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="supun nanayakkara's languages" /> -->
- <img alt="Profile followers" src="https://img.shields.io/github/followers/hacanand">
+<!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/supuna97"> -->
 </p>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
@@ -34,6 +34,8 @@
 - 🔭 I’m currently a student a NIT Patna
 
 - 🌱 I’m currently learning **Backend**
+
+- 👨‍💻 All of my projects are available at [supun's workspace](http://supun.traditionalme.life)
 
 - 💬 Ask me about *Frontend, Backend, Fullstack, C++, Data structure and algorithm
 
@@ -107,22 +109,31 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hacanand&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+<img src="https://github-profile-trophy.vercel.app/?username=hacanand&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
  </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hacanand&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
+<img src="https://github-profile-trophy.vercel.app/?username=hacanand&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
  </div>
  <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacanand&layout=donut&theme=dracula)](https://github.com/hacanand/github-readme-stats)
+</div>
+
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
-![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacanand&show_icons=true&theme=radical)
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacanand&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hacanand&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hacanand&theme=dracula)](https://git.io/streak-stats)
 
 </div>
 
@@ -132,7 +143,7 @@
 
 <h3 align="left">Activity:</h3>
 
-![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hacanand&custom_title=Anand%27s%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Anand's Graph](https://github-readme-activity-graph.vercel.app/graph?username=hacanand&custom_title=Anand%27s%20GitHub%20Activity%20Graph&bg_color=00FFFFF&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true&hide_border=true)
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -141,47 +152,3 @@
 
 <br>
 <p align="right" > Created with 🧡 by Amrit Anand</p>
-
-
-```javascript
-                                                                     "Devamrit.js"                                                    
-
-import DSA from 'data Structure and Algorithm/C++'
-
-const practiceDsa =useLeetcode("400+ Problems")
-const contests= useCodechef("weekly")
-
-const amrit = {
-  pronouns: "he" | "his",
-  languages:[C/C++,javascript,python],
-  backend:[nodejs,express],
-  frontend:[Reactjs,Nextjs,Redux,Tailwind,css,HTML]
-
-  techCommunities: {
-                        member: "Facebook-Developer",
-                        member: "Google-Developer",
-                        member:  "hackClub",
-                        member:"Xda-Developer",
-                      },
- challenge: "Eat-Sleep-Code"
-}
-``` 
-
----
-
- 
-
-<!--
-**hacanand/hacanand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
