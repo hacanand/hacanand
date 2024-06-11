@@ -119,6 +119,14 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacanand&layout=donut)](https://github.com/hacanand/github-readme-stats)
+</div>
+
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
