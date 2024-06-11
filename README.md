@@ -151,4 +151,24 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
+
+```javascript
+                                                                     "Devamrit.js"                                                    
+import DSA from 'data Structure and Algorithm/C++'
+const practiceDsa =useLeetcode("400+ Problems")
+const contests= useCodechef("weekly")
+const amrit = {
+  pronouns: "he" | "his",
+  languages:[C/C++,javascript,python],
+  backend:[nodejs,express],
+  frontend:[Reactjs,Nextjs,Redux,Tailwind,css,HTML]
+  techCommunities: {
+                        member: "Facebook-Developer",
+                        member: "Google-Developer",
+                        member:  "hackClub",
+                        member:"Xda-Developer",
+                      },
+ challenge: "Eat-Sleep-Code"
+}
+```
 <p align="right" > Created with 🧡 by Amrit Anand</p>
