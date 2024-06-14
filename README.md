@@ -153,7 +153,7 @@
 <br>
 
 ```javascript
-                                                                     "Devamrit.js"                                                    
+
 import DSA from 'data Structure and Algorithm/C++'
 const practiceDsa =useLeetcode("400+ Problems")
 const contests= useCodechef("weekly")
