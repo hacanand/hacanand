@@ -127,11 +127,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacanand&layout=donut&theme=dracula)](https://github.com/hacanand/github-readme-stats)
 </div>
 
-<h3 align="left">GitHub Stats:</h3>
 <div align="center">
  
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacanand&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
+![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacanand&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=hacanand&theme=dracula)](https://git.io/streak-stats)
 
