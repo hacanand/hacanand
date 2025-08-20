@@ -64,12 +64,12 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,ts" />
   </a>
 </p>
--AI/LLM/Data Eng
+<!-- - AI/LLM/Data Eng
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=chat-gpt,claude,airfow" />
+    <img src="https://skillicons.dev/icons?i=chat-gpt,claude,airflow" />
   </a>
-</p>
+</p> -->
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
