@@ -64,6 +64,12 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,ts" />
   </a>
 </p>
+-AI/LLM/Data Eng
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=chat-gpt,claude,airfow" />
+  </a>
+</p>
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
