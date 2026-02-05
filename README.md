@@ -52,6 +52,11 @@
 <a href="https://github.com/anand-alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anand-alpha" height="30" width="40" /></a>
  
 </p>
+
+<h3 align="left">Company Projects:</h3>
+<p align="left">
+🏢 <a href="https://gitlab.com/telsa-group/GAIN" target="blank"><b>GAIN - Telsa Group</b></a> - My contributions to the company project
+</p>
 <br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
