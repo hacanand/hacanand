@@ -49,13 +49,14 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/amrit-anand-869197175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="supunnanayakkara" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22782447/hacanand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
-<a href="https://github.com/anand-alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anand-alpha" height="30" width="40" /></a>
- 
+
 </p>
 
-<h3 align="left">Company Projects:</h3>
+<h3 align="left">Company Github:</h3>
 <p align="left">
-🏢 <a href="https://gitlab.com/telsa-group/GAIN" target="blank"><b>GAIN - Telsa Group</b></a> - My contributions to the company project
+🏢 <a href="https://gitlab.com/telsa-group/GAIN" target="blank"><b>GAIN - Telsa Group</b></a> 
+ <a href="https://github.com/anand-alpha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="anand-alpha" height="30" width="40" /></a>
+ 
 </p>
 <br>
 
