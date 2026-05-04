@@ -8,7 +8,7 @@
  <img src="https://komarev.com/ghpvc/?username=hacanand&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
  
 </p>
-<div align="center" style="display: flex-col; flex-wrap: wrap; justify-content: center; gap: 15px;">
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="50" height="50" />
