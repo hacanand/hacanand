@@ -8,7 +8,7 @@
  <img src="https://komarev.com/ghpvc/?username=hacanand&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
  
 </p>
-<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+<!-- <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="50" height="50" />
@@ -20,7 +20,7 @@
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="restapi" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="graphql" width="50" height="50" />
-</div>
+</div> -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
