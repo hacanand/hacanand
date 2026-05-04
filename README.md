@@ -8,7 +8,7 @@
  <img src="https://komarev.com/ghpvc/?username=hacanand&label=Profile%20views&color=0e75b6&style=flat" alt="supun nanayakkara" /> 
  
 </p>
-<div align="left">
+<div align="flex">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
