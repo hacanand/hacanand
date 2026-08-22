@@ -107,7 +107,8 @@
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
   
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hacanand&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
+ [![trophy](https://github-profile-trophy.vercel.app/?username=hacanand&theme=dracula)](https://github.com/hacanand/github-profile-trophy)
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=hacanand&theme=dracula&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews"> -->
  </div>
 
 <div align="center">
