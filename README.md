@@ -58,14 +58,14 @@
 - Languages
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,ts" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,javascript,ts,rust" />
   </a>
 </p>
 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi," />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,fastapi" />
   </a>
 </p>
 
