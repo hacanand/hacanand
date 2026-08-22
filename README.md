@@ -129,7 +129,7 @@
  
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacanand&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hacanand&theme=dracula)](https://git.io/streak-stats)
+
 
 </div>
 
