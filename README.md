@@ -122,7 +122,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hacanand&layout=donut&theme=dracula)](https://github.com/hacanand/github-readme-stats)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hacanand&layout=donut&theme=dracula)](https://github.com/hacanand/github-readme-stats)
 </div>
 
 <div align="center">
