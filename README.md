@@ -128,7 +128,7 @@
 <div align="center">
  
 ![Anand's GitHub stats](https://github-readme-stats.vercel.app/api?username=hacanand&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dracula)
-
+[![Anand's GitHub stats](https://github-stats-extended.vercel.app/api?username=hacanand)](https://github.com/stats-organization/github-stats-extended)
 
 
 </div>
